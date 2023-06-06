@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/bond-st-test-2/static/js/main.cbb7782b.js",
+    "static/media/logo-black.png": "/bond-st-test-2/static/media/logo-black.10a3991ac85ee5eeb097.png",
+    "index.html": "/bond-st-test-2/index.html",
+    "main.cbb7782b.js.map": "/bond-st-test-2/static/js/main.cbb7782b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cbb7782b.js"
+  ]
+}
